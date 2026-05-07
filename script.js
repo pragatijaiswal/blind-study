@@ -2,7 +2,7 @@
 // SUPABASE CONFIG
 // ============================
 
-const SUPABASE_URL = 'https://uyxeucbukctlchvltzad.supabase.co/responses';
+const SUPABASE_URL = 'https://uyxeucbukctlchvltzad.supabase.co/';
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InV5eGV1Y2J1a2N0bGNodmx0emFkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgxNDYyNzAsImV4cCI6MjA5MzcyMjI3MH0.2bnkjCWoyRRpw0pohCVUR-J3sM08frYBwMUUw-DkOeQ';
 
 const supabaseClient = supabase.createClient(
