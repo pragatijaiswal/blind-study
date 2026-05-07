@@ -27,32 +27,6 @@
       ]
     },
     {
-      "name": "Subject10",
-      "gt": "Subject10/GT/08_GTB.png",
-      "methods": [
-        {
-          "name": "DSS-Diff",
-          "file": "Subject10/DSS-Diff/Cropped_08_OurB.png"
-        },
-        {
-          "name": "DiffNet",
-          "file": "Subject10/DiffNet/Croped_08_DifNetB.png"
-        },
-        {
-          "name": "Flame",
-          "file": "Subject10/Flame/08_FlameTex.png"
-        },
-        {
-          "name": "Huynuan3D",
-          "file": "Subject10/Huynuan3D/Cropped_08_HunyB.png"
-        },
-        {
-          "name": "MonoNPHM",
-          "file": "Subject10/MonoNPHM/Cropped_08_NPHMB.png"
-        }
-      ]
-    },
-    {
       "name": "Subject2",
       "gt": "Subject2/GT/GT.png",
       "methods": [
@@ -257,6 +231,32 @@
         {
           "name": "MonoNPHM",
           "file": "Subject9/MonoNPHM/12_NPHMB.png"
+        }
+      ]
+    },
+    {
+      "name": "Subject10",
+      "gt": "Subject10/GT/08_GTB.png",
+      "methods": [
+        {
+          "name": "DSS-Diff",
+          "file": "Subject10/DSS-Diff/Cropped_08_OurB.png"
+        },
+        {
+          "name": "DiffNet",
+          "file": "Subject10/DiffNet/Croped_08_DifNetB.png"
+        },
+        {
+          "name": "Flame",
+          "file": "Subject10/Flame/08_FlameTex.png"
+        },
+        {
+          "name": "Huynuan3D",
+          "file": "Subject10/Huynuan3D/Cropped_08_HunyB.png"
+        },
+        {
+          "name": "MonoNPHM",
+          "file": "Subject10/MonoNPHM/Cropped_08_NPHMB.png"
         }
       ]
     }
