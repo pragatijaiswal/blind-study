@@ -1,0 +1,264 @@
+{
+  "subjects": [
+    {
+      "name": "Subject1",
+      "gt": "Subject1/GT/GT.png",
+      "methods": [
+        {
+          "name": "DSS-DIff",
+          "file": "Subject1/DSS-DIff/Our.png"
+        },
+        {
+          "name": "DiffNet",
+          "file": "Subject1/DiffNet/DiffNet.png"
+        },
+        {
+          "name": "Flame",
+          "file": "Subject1/Flame/Flame.png"
+        },
+        {
+          "name": "Huynuan3d",
+          "file": "Subject1/Huynuan3d/Huyn.png"
+        },
+        {
+          "name": "MonoNPHM",
+          "file": "Subject1/MonoNPHM/MonoNPHM.png"
+        }
+      ]
+    },
+    {
+      "name": "Subject10",
+      "gt": "Subject10/GT/08_GTB.png",
+      "methods": [
+        {
+          "name": "DSS-Diff",
+          "file": "Subject10/DSS-Diff/Cropped_08_OurB.png"
+        },
+        {
+          "name": "DiffNet",
+          "file": "Subject10/DiffNet/Croped_08_DifNetB.png"
+        },
+        {
+          "name": "Flame",
+          "file": "Subject10/Flame/08_FlameTex.png"
+        },
+        {
+          "name": "Huynuan3D",
+          "file": "Subject10/Huynuan3D/Cropped_08_HunyB.png"
+        },
+        {
+          "name": "MonoNPHM",
+          "file": "Subject10/MonoNPHM/Cropped_08_NPHMB.png"
+        }
+      ]
+    },
+    {
+      "name": "Subject2",
+      "gt": "Subject2/GT/GT.png",
+      "methods": [
+        {
+          "name": "DSS-Diff",
+          "file": "Subject2/DSS-Diff/Our.png"
+        },
+        {
+          "name": "DiffNet",
+          "file": "Subject2/DiffNet/DifNet.png"
+        },
+        {
+          "name": "Flame",
+          "file": "Subject2/Flame/Flame.png"
+        },
+        {
+          "name": "Huynuan3D",
+          "file": "Subject2/Huynuan3D/Huyn.png"
+        },
+        {
+          "name": "MonoNPHM",
+          "file": "Subject2/MonoNPHM/MonoNPHM.png"
+        }
+      ]
+    },
+    {
+      "name": "Subject3",
+      "gt": "Subject3/GT/GT.png",
+      "methods": [
+        {
+          "name": "DSS-Diff",
+          "file": "Subject3/DSS-Diff/Our.png"
+        },
+        {
+          "name": "DiffNet",
+          "file": "Subject3/DiffNet/DiffNet.png"
+        },
+        {
+          "name": "Flame",
+          "file": "Subject3/Flame/Flame.png"
+        },
+        {
+          "name": "Huynuan3D",
+          "file": "Subject3/Huynuan3D/Huyn.png"
+        },
+        {
+          "name": "MonoNPHM",
+          "file": "Subject3/MonoNPHM/MonoNPHM.png"
+        }
+      ]
+    },
+    {
+      "name": "Subject4",
+      "gt": "Subject4/GT/GT.png",
+      "methods": [
+        {
+          "name": "DSS-Diff",
+          "file": "Subject4/DSS-Diff/Our.png"
+        },
+        {
+          "name": "DiffNet",
+          "file": "Subject4/DiffNet/DifNet.png"
+        },
+        {
+          "name": "Flame",
+          "file": "Subject4/Flame/Flame.png"
+        },
+        {
+          "name": "Huynuan3D",
+          "file": "Subject4/Huynuan3D/Huyn.png"
+        },
+        {
+          "name": "MonoNPHM",
+          "file": "Subject4/MonoNPHM/MonoNPHM.png"
+        }
+      ]
+    },
+    {
+      "name": "Subject5",
+      "gt": "Subject5/GT/GT.png",
+      "methods": [
+        {
+          "name": "DSS-Diff",
+          "file": "Subject5/DSS-Diff/Our.png"
+        },
+        {
+          "name": "DiffNet",
+          "file": "Subject5/DiffNet/DifNet.png"
+        },
+        {
+          "name": "Flame",
+          "file": "Subject5/Flame/Flame.png"
+        },
+        {
+          "name": "Huynuan3D",
+          "file": "Subject5/Huynuan3D/Huyn.png"
+        },
+        {
+          "name": "MonoNPHM",
+          "file": "Subject5/MonoNPHM/MonoNPHM.png"
+        }
+      ]
+    },
+    {
+      "name": "Subject6",
+      "gt": "Subject6/GT/16_GTB.png",
+      "methods": [
+        {
+          "name": "DSS-Diff",
+          "file": "Subject6/DSS-Diff/16_OurB.png"
+        },
+        {
+          "name": "DiffNet",
+          "file": "Subject6/DiffNet/16_DifNetB.png"
+        },
+        {
+          "name": "Flame",
+          "file": "Subject6/Flame/FlameB.png"
+        },
+        {
+          "name": "Huynuan3D",
+          "file": "Subject6/Huynuan3D/16_HuynB.png"
+        },
+        {
+          "name": "MonoNPHM",
+          "file": "Subject6/MonoNPHM/16_NPHMB.png"
+        }
+      ]
+    },
+    {
+      "name": "Subject7",
+      "gt": "Subject7/GT/03_GTB.png",
+      "methods": [
+        {
+          "name": "DSS-Diff",
+          "file": "Subject7/DSS-Diff/03_OurB.png"
+        },
+        {
+          "name": "DiffNet",
+          "file": "Subject7/DiffNet/03_DIfNetB.png"
+        },
+        {
+          "name": "Flame",
+          "file": "Subject7/Flame/03_FlameTex.png"
+        },
+        {
+          "name": "Huynuan3D",
+          "file": "Subject7/Huynuan3D/03_HuynB.png"
+        },
+        {
+          "name": "MonoNPHM",
+          "file": "Subject7/MonoNPHM/03_NPHMB.png"
+        }
+      ]
+    },
+    {
+      "name": "Subject8",
+      "gt": "Subject8/GT/02_GTB.png",
+      "methods": [
+        {
+          "name": "DSS-Diff",
+          "file": "Subject8/DSS-Diff/02_OurB.png"
+        },
+        {
+          "name": "DiffNet",
+          "file": "Subject8/DiffNet/02_DifNetB.png"
+        },
+        {
+          "name": "Flame",
+          "file": "Subject8/Flame/FlameB.png"
+        },
+        {
+          "name": "Huynuan3D",
+          "file": "Subject8/Huynuan3D/02_HuynB.png"
+        },
+        {
+          "name": "MonoNPHM",
+          "file": "Subject8/MonoNPHM/02_NPHMB.png"
+        }
+      ]
+    },
+    {
+      "name": "Subject9",
+      "gt": "Subject9/GT/12_GTB.png",
+      "methods": [
+        {
+          "name": "DSS-Diff",
+          "file": "Subject9/DSS-Diff/12_ourB.png"
+        },
+        {
+          "name": "DiffNet",
+          "file": "Subject9/DiffNet/12_DifNetB.png"
+        },
+        {
+          "name": "Flame",
+          "file": "Subject9/Flame/FlameB.png"
+        },
+        {
+          "name": "Huynuan3D",
+          "file": "Subject9/Huynuan3D/12_huynB.png"
+        },
+        {
+          "name": "MonoNPHM",
+          "file": "Subject9/MonoNPHM/12_NPHMB.png"
+        }
+      ]
+    }
+  ]
+}
